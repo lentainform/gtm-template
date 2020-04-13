@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "displayName": "Lentainform Pixel",
-  "description": "Use the Lentainform Pixel for retargeting and conversion tracking.",
+  "description": "Use the Lentainform Pixel for create your news.",
   "categories": ["AUTOCREATIVE SCRIPT"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
