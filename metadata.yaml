@@ -1,5 +1,5 @@
 homepage: ​"https://www.lentainform.com"
 documentation: ​"https://partner.lentainform.com/help/"​
 versions:
-  - ​sha: 5e86acad83012464d4946014a75e3ef841cd8697
+  - ​sha: 60a5fb81b6cbb0dee34a0c8acbc45d5e0b5ab681
   ​  changeNotes: Initial release.
